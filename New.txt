@@ -3,6 +3,3 @@ New song
 
 What is that ?
  hi
-=======
-ME and 
->>>>>>> parent of 4443613 (Revert "Added new word New.txt")
